@@ -1,0 +1,15 @@
+body{
+    border: 0;
+}
+.banner img{
+    width: 100%;
+}
+.card{
+    display:flex;
+    flex-direction: row;
+    margin: 10px;
+}
+.card1 img{
+    width: 100px;
+    height: 100px;
+}
